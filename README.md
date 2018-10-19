@@ -13,3 +13,23 @@ Mandelbrot set images may be created by sampling the complex numbers and testing
 Please check the link bellow for futher explanation about what is MandelBrot Set.
 
 https://en.wikipedia.org/wiki/Mandelbrot_set
+
+
+
+To run this code on your computer in order to see the results:
+
+1) download the files in a folder in your computer
+2) open the command-line interface/terminal
+3) change directory (into the one that you saved the files)
+4) Type on the command-line interface the command bellow and hit "enter":
+    gcc -o mandelbrotServer server.c mandelbrot.c pixelColor.c
+ (remember to change "gcc" into the compiler that you have intalled on your computer)
+5) then type the following command:
+    ./mandelbrotServer
+6) You will see on the output something similar to:
+   [SERVER] Access this server at http://localhost:1536/
+ Then, copy "http://localhost:1536/" and paste on your browser.
+
+Now you are able to use the mandelbrot viewer.
+Play around with the viewer to find intersting results as you keep zooming into the colorfull bits of the image.
+

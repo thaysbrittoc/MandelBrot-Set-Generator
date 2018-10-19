@@ -34,3 +34,4 @@ Then, copy "http://localhost:1536/" and paste on your browser.
 Now you are able to use the mandelbrot viewer.
 Play around with the viewer to find intersting results as you keep zooming into the colorfull bits of the image.
 
+Also, when you zoom in, wait a little until the image fully loads. You should be able to get clear images of the mandelbrot viewer as you zoom in each time. 

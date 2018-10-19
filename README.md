@@ -28,7 +28,8 @@ To run this code on your computer in order to see the results:
     ./mandelbrotServer
 6) You will see on the output something similar to:
    [SERVER] Access this server at http://localhost:1536/
- Then, copy "http://localhost:1536/" and paste on your browser.
+
+Then, copy "http://localhost:1536/" and paste on your browser.
 
 Now you are able to use the mandelbrot viewer.
 Play around with the viewer to find intersting results as you keep zooming into the colorfull bits of the image.
